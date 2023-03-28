@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Ира Петуховская](https://up.htmlacademy.ru/adaptive/28/user/2186113).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj).
 
 ---
 
